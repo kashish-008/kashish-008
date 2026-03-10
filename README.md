@@ -19,15 +19,19 @@
 </a>
 </p>
 ---
+
 # 🧰 Tech Stack
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwind,git" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwind,git," />
 </p>
+
 ### Other Tools
 - GSAP  
 - Locomotive Scroll  
 ---
+
 # 🚀 Projects
+
 ### 👨‍💼 Employee Management System
 - CRUD web application  
 - Built with **HTML, CSS, JavaScript and LocalStorage**
