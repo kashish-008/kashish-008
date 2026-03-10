@@ -8,7 +8,7 @@
 - 💻 Focused on building **clean and interactive UI**
 - ⚡ Learning **modern frontend tools and animations**
 - 🚀 Goal: Become a **Full Stack Developer**
----
+
 ## 🌐 Connect With Me
 <p align="left">
 <a href="https://github.com/kashish-008">
@@ -18,7 +18,6 @@
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 </p>
----
 
 # 🧰 Tech Stack
 <p>
@@ -28,10 +27,7 @@
 ### Other Tools
 - GSAP  
 - Locomotive Scroll  
----
-
 # 🚀 Projects
-
 ### 👨‍💼 Employee Management System
 - CRUD web application  
 - Built with **HTML, CSS, JavaScript and LocalStorage**
@@ -40,7 +36,6 @@
 - Small interactive webpage  
 - Built using **JavaScript + GSAP animations**
 - Focus on smooth UI transitions
----
 # 📊 GitHub Stats
 <p align="center">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kashish-008&show_icons=true&theme=tokyonight"/>
