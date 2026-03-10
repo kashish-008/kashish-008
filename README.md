@@ -8,7 +8,6 @@
 - 💻 Focused on building **clean and interactive UI**
 - ⚡ Learning **modern frontend tools and animations**
 - 🚀 Goal: Become a **Full Stack Developer**
-
 ## 🌐 Connect With Me
 <p align="left">
 <a href="https://github.com/kashish-008">
@@ -33,5 +32,5 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kashish-008&show_icons=true&theme=tokyonight"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kashish-008&layout=compact&theme=tokyonight"/>
 </p>
----
+
 ⭐ **Always learning and building as a Frontend Developer.**
