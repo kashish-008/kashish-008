@@ -27,15 +27,7 @@
 ### Other Tools
 - GSAP  
 - Locomotive Scroll  
-# 🚀 Projects
-### 👨‍💼 Employee Management System
-- CRUD web application  
-- Built with **HTML, CSS, JavaScript and LocalStorage**
-- Allows adding, editing, and deleting employee data
-### 🎬 GSAP Animation Webpage
-- Small interactive webpage  
-- Built using **JavaScript + GSAP animations**
-- Focus on smooth UI transitions
+
 # 📊 GitHub Stats
 <p align="center">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kashish-008&show_icons=true&theme=tokyonight"/>
