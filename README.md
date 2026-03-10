@@ -10,12 +10,9 @@
 - 🚀 Goal: Become a **Full Stack Developer**
 ### 🌐 Connect With Me
 <p align="left">
-<a href="https://github.com/kashish-008">
-<img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-<a href="https://www.linkedin.com/in/kashish54/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+<a href="https://www.linkedin.com/in/kashish54/"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://github.com/kashish-008?tab=repositories&sort=stargazers"><img src="https://custom-icon-badges.demolab.com/github/stars/kashish-008?color=55960c&labelColor=488207&style=for-the-badge&logo=star"/></a>
+<img src="https://komarev.com/ghpvc/?username=kashish-008&label=GitHub%20Profile%20Views&style=for-the-badge&color=blue" alt="GitHub Profile Views"/>
 </p>
 
 ### 🧰 Languages and Tools
@@ -27,7 +24,8 @@
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%237952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=black)
-![Locomotive](https://img.shields.io/badge/Locomotive_Scroll-000000?style=for-the-badge&logo=locomotive&logoColor=white)
+![Locomotive](https://img.shields.io/badge/Locomotive_Scroll-000000?style=for-the-badge&logo=locomotive&logoColor=white) <br>
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white)
    
 ⭐ **Always learning and building as a Frontend Developer.**
