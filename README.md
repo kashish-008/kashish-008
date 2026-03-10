@@ -12,7 +12,7 @@
 - 🚀 Goal: Become a **Full Stack Developer**
 ### 🌐 Connect With Me
 <p align="left">
-<a href="https://www.linkedin.com/in/kashish54/"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/kashish54/ target="_blank"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://github.com/kashish-008?tab=repositories&sort=stargazers"><img src="https://custom-icon-badges.demolab.com/github/stars/kashish-008?color=55960c&labelColor=488207&style=for-the-badge&logo=star"/></a>
 <img src="https://komarev.com/ghpvc/?username=kashish-008&label=GitHub%20Profile%20Views&style=for-the-badge&color=blue" alt="GitHub Profile Views"/>
 </p>
