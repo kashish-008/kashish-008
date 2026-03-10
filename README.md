@@ -26,11 +26,4 @@
 ### Other Tools
 - GSAP  
 - Locomotive Scroll  
-
-# 📊 GitHub Stats
-<p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=kashish-008&show_icons=true&theme=tokyonight"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kashish-008&layout=compact&theme=tokyonight"/>
-</p>
-
 ⭐ **Always learning and building as a Frontend Developer.**
